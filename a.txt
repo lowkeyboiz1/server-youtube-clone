@@ -1,0 +1,12 @@
+"category":"a" ,
+"titleVideo":"a" ,
+"view":"a" ,
+"publicAt":"a" ,
+"idVideo":"a",
+"descriptionVideo":"a" ,
+"titleChannle": "a",
+"urlChannel":"a",
+"idChannle":"a",
+"urlThumbnail": "a",
+"scrVideo":"a",
+"channles":"a"
